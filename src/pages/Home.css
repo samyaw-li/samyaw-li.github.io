@@ -1,0 +1,15 @@
+.section-text {
+  font-size: 1rem;
+  margin: 0.3rem 0 1.2rem;
+  color: #444;
+  
+}
+
+.section-text a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.section-text a:hover {
+  text-decoration: underline;
+}
