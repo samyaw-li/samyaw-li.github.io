@@ -8,7 +8,7 @@ function Home() {
         Hi, I'm Samuel! I am an undergraduate student at the University of California, Los Angeles 
         studying mathematics and computer science at the University of
         California, Los Angeles. Currently, I’m currently learning full-stack development 
-        and exploring machine-learning techniques.
+        and just figuring things out.
       </p>
 
       <p className="section-text">

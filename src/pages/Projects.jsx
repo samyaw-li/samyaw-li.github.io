@@ -3,9 +3,18 @@ import "./Projects.css";
 
 import NHBA from "../assets/NHBA.jpeg";
 import recipeRecommender from "../assets/recipe-recommender.jpg";
+import JournalMe from "../assets/JournalMe.png";
 
 function Projects() {
   const projects = [
+    {
+      title: "JournalMe",
+      image: JournalMe,
+      description:
+        "A journaling app that lets users create daily entries with text, images, and tags, track streaks, and organize content.",
+      languages: ["TypeScript", "React", "Vite", "Django", "Python", "JWT", "HTML", "CSS"],
+      url: "https://github.com/CaboozledPie/journal-me"
+    },
     {
       title: "Recipe Recommender",
       image: recipeRecommender,
