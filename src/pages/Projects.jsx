@@ -4,6 +4,7 @@ import "./Projects.css";
 import NHBA from "../assets/NHBA.jpeg";
 import recipeRecommender from "../assets/recipe-recommender.jpg";
 import JournalMe from "../assets/JournalMe.png";
+import AltruistsVsEgoists from "../assets/alt_ego_simulation.jpg";
 
 function Projects() {
   const projects = [
@@ -14,6 +15,14 @@ function Projects() {
         "A journaling app that lets users create daily entries with text, images, and tags, track streaks, and organize content.",
       languages: ["TypeScript", "React", "Vite", "Django", "Python", "JWT", "HTML", "CSS"],
       url: "https://github.com/CaboozledPie/journal-me"
+    },
+    {
+      title: "Egoists vs. Altruists",
+      image: AltruistsVsEgoists,
+      description:
+        "An evolutionary simulation exploring the dynamics of Altruists, Egoists, and Halfway Houses in public goods games. Developed as a Research Assistant for Susanne Lohmann's project 'Ethics & AI'.",
+      languages: ["Python", "FastAPI", "React", "Vite", "JavaScript", "HTML", "CSS"],
+      url: "https://github.com/samyaw-li/egoists_sim"
     },
     {
       title: "Recipe Recommender",
