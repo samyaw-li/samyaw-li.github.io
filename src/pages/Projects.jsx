@@ -20,7 +20,7 @@ function Projects() {
       title: "Egoists vs. Altruists",
       image: AltruistsVsEgoists,
       description:
-        "An evolutionary simulation exploring the dynamics of Altruists, Egoists, and Halfway Houses in public goods games. Developed as a Research Assistant for Susanne Lohmann's project 'Ethics & AI'.",
+        "Evolutionary simulation of Altruists, Egoists, and Halfway Houses in public goods games. Built as a Research Assistant for Susanne Lohmann's 'Ethics & AI' project, modeling group interactions and survival dynamics.",
       languages: ["Python", "FastAPI", "React", "Vite", "JavaScript", "HTML", "CSS"],
       url: "https://github.com/samyaw-li/egoists_sim"
     },
@@ -37,7 +37,7 @@ function Projects() {
       image: NHBA,
       description: 
         "A responsive website with multi-page navigation, SEO-optimized content, and dynamic sections to showcase club events and services.",
-      languages: ["React", "JavaScript", "Vite", "CSS"],
+      languages: ["React", "JavaScript", "Vite", "HTML", "CSS"],
       url: "https://newhopebadminton.com"
     },
   ];
